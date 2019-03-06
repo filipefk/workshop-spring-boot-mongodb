@@ -73,6 +73,7 @@ Seguindo as orientações do desafio, segue a descrição e orientações a resp
     ```
 	
 ### Observações sobre os testes do JUnit:
+  - Como executar os testes do JUnit:
     ```
     * Cada RESOURCE tem o CRUD completo de cada uma das entidades, que são:
         1. Pessoa
