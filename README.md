@@ -69,4 +69,23 @@ Seguindo as orientações do desafio, segue a descrição e orientações a resp
         3.1 - Transferir, que executa a transferência definida nos campos. Uma transferência de saldo consiste em 
               criar dois novos lançamentos, um de débito na conta de origem e um de crédito na conta de destino. 
               Uma transferência de LIMITE somente reduz o limite da conta de origem e adiciona na conta destino.
+        3.2 - Limpar campos, que limpa os campos para um novo preenchimento.
+    ```
+	
+### Observações sobre os testes do JUnit:
+    ```
+    * Cada RESOURCE tem o CRUD completo de cada uma das entidades, que são:
+        1. Pessoa
+        2. Conta
+        3. Lancamento
+        4. Encargo
+    * Foi criado uma classe de teste para cada RESOURCE.
+        1. PessoaResourceTest
+        2. ContaResourceTest
+        3. LancamentoResourceTest
+        4. EncargoResourceTest
+    * As classes de teste só podem ser executadas INDIVIDUALMENTE e antes de executar cada uma delas, tem que ser 
+      recriada a base de teste a partir do script "\conductor\docs\mysql\cria_base_mysql.sql".
+    * Isso está desta forma porque os testes alteram os dados e testam os dados após as alterações, e foram 
+      desenvolvidos esperando que a base contenha determinadas entidades em determinada situação.
     ```
