@@ -27,7 +27,8 @@ Seguindo as orientações do desafio, segue a descrição e orientações a resp
     2. Copiar a pasta "\conductor\telas" para qualquer local do mesmo computador.
     3. Copiar o arquivo "\conductor\target\conductor.jar" para qualquer local do mesmo computador.
     4. Executar o arquivo "conductor.jar" com o comando "java -jar c:\caminho\onde\foi\copiado\conductor.jar".
-    5. Abrir o arquivo "telas\index.html" em algum web browser Google Chrome ou Mozila Firefox. Nos meus teste não funcionou no Microsoft Internet Explorer nem no Microsoft Edge
+    5. Abrir o arquivo "telas\index.html" em algum web browser Google Chrome ou Mozila Firefox. 
+	Nos meus teste não funcionou no Microsoft Internet Explorer nem no Microsoft Edge
     ```
 	
 ### Características técnicas:
