@@ -49,7 +49,8 @@ Seguindo as orientações do desafio, segue a descrição e orientações a resp
         1.2. Pessoas
             - Cadastro de pessoas que podem ter de zero a N contas
         1.3. Contas
-            - Cadastro de contas que devem pertencer a uma pessoa e podem ter um limite de crédito de zero a N reais.
+            - Cadastro de contas que devem pertencer a uma pessoa e podem ter um limite de crédito de zero a N 
+              reais.
         1.4. Lançamentos
             - Cadastro de lançamentos de uma conta, que podem ser de crédito quando o valor for positivo e de 
               débito quando o valor for negativo.
