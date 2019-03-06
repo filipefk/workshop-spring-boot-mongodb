@@ -39,6 +39,7 @@ Seguindo as orientações do desafio, segue a descrição e orientações a resp
     ```
 	
 ### Como utilizar a aplicação:
+  - Guia rápido para poder utilizar a aplicação:
     ```
     1. Ao abrir o arquivo "telas\index.html" no web Browser, tem um menu superior com as opções
         1.1. Inicio
